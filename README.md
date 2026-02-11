@@ -90,6 +90,3 @@ Dev server berjalan di **http://localhost:5173**. Request ke `/api` dan `/report
 - `npm run build` – Build production ke `dist/`
 - `npm run preview` – Preview hasil build
 
-## Lisensi
-
-Private / pendidikan.
