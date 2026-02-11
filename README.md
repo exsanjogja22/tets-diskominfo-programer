@@ -1,7 +1,5 @@
 # Petunjuk Pengunaan
 
-Aplikasi manajemen produk (Northwind-style) dengan backend Go (Echo + MySQL) dan frontend JavaScript + Tailwind CSS (Vite).
-
 ## Struktur Project
 
 ```
@@ -90,7 +88,3 @@ Dev server berjalan di **http://localhost:5173**. Request ke `/api` dan `/report
 - `npm run dev` – Dev server dengan hot reload
 - `npm run build` – Build production ke `dist/`
 - `npm run preview` – Preview hasil build
-
-## Lisensi
-
-Private / pendidikan.
