@@ -1,6 +1,6 @@
 # Petunjuk Pengunaan
 
-Aplikasi manajemen produk (Northwind-style) dengan backend Go (Echo + MySQL) dan frontend JavaScript + Tailwind CSS (Vite).
+Aplikasi manajemen produk
 
 ## Struktur Project
 
