@@ -1,4 +1,4 @@
-# Est Pemrograman Go
+# Petunjuk Pengunaan
 
 Aplikasi manajemen produk (Northwind-style) dengan backend Go (Echo + MySQL) dan frontend JavaScript + Tailwind CSS (Vite).
 
@@ -52,7 +52,7 @@ DB_NAME=test-pemrograman-go
 Install dependency dan jalankan:
 
 ```bash
-go mod tidy
+go get name_pkg
 go run main.go
 ```
 
