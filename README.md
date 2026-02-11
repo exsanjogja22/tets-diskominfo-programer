@@ -1,7 +1,5 @@
 # Petunjuk Pengunaan
 
-Aplikasi manajemen produk
-
 ## Struktur Project
 
 ```
@@ -24,6 +22,7 @@ est-pemrograman-go/
 │   └── vite.config.js
 └── README.md
 ```
+
 
 ## Persyaratan
 
@@ -51,7 +50,7 @@ DB_NAME=test-pemrograman-go
 Install dependency dan jalankan:
 
 ```bash
-go mod tidy
+go get name_pkg
 go run main.go
 ```
 
@@ -89,4 +88,3 @@ Dev server berjalan di **http://localhost:5173**. Request ke `/api` dan `/report
 - `npm run dev` – Dev server dengan hot reload
 - `npm run build` – Build production ke `dist/`
 - `npm run preview` – Preview hasil build
-
