@@ -1,4 +1,4 @@
-# Est Pemrograman Go
+# Petunjuk Pengunaan
 
 Aplikasi manajemen produk (Northwind-style) dengan backend Go (Echo + MySQL) dan frontend JavaScript + Tailwind CSS (Vite).
 
